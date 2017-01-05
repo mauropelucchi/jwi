@@ -19,6 +19,8 @@ Changelog for edu.mit.jwi:
 
 Ver     : Release Date  : Changes
 =================================
+2.3.3-haddop	: 	Jan 05, 2017 : Add support for HDFS and YARN (by mauro.pelucchi@gmail.com)
+---> Fork for hadoop
 2.3.3   : Feb 12, 2014  : 1. Fixed Bug 023: RAMDictionary now properly handles underspecified word id objects
 ----------------------------------
 2.3.2   : Dec 26, 2013  : 1. Fixed Bug 022: Minor changes to stemmer to correct lemma order and correctly handle nouns and verbs of two characters or fewer
