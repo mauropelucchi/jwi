@@ -4,3 +4,10 @@ target
 # Package Files #
 *.war
 *.ear
+
+
+# Eclipse files
+.settings
+.classpath
+.project
+.externalToolBuilders
